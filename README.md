@@ -1,6 +1,6 @@
-AGoodStart
+A Good Start
 ==========
-
+Skyler's Fork
 The very first project for iOS pre-course.
 
 ### Let's get started
